@@ -1,4 +1,5 @@
 ElectroStore
+
 ElectroStore is an inventory and sales management application built in Java for managing electronic devices such as TVs, cameras, 
 gaming consoles, and home appliances. The application supports viewing available items, processing sales, tracking orders, 
 and handling customer information with a user-friendly CLI interface.
